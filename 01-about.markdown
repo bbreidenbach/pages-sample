@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Bryan](pages/sample/content/img/BreidenbachB_2024_Option4v2.jpg)
+![Bryan](pages/sample/content/img/breidenbach.jpg)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
