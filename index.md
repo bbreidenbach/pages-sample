@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome everyone to the Professional Protfolio of Bryan Breidenbach MTM
 
 
-#### Here are some example pages:
+#### Pages:
 
-- [Markdown](02-markdown-examples)
+- [Publications](02-[)](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003392583-16/tourism-role-addressing-poverty-asset-equity-mountain-west-bryan-breidenbach-david-knight?context=ubx&refId=204c92b6-8aed-4c59-8dd7-0cfb8f5b39dc)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
