@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to the Professional Protfolio of Bryan Breidenbach MTM
+## Welcome everyone to the Professional Portfolio of Bryan Breidenbach MTM
 
 
 #### Pages:
